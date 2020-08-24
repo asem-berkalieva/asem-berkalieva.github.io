@@ -1,27 +1,23 @@
-You can use the [editor on GitHub](https://github.com/asem-berkalieva/asem-berkalieva.github.io/edit/master/index.md)
+# Projects
 
-### Projects
+## Computational Statistics: Gene Expression in Endometriosis
 
-### Other Experiences
+## Causal Inference: Yelp Reviews and Restaurant Closure
 
-### Education
+____
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Other Experiences
 
-```markdown
-Syntax highlighted code block
+## Master's Thesis: Life Expectancy
 
-# Header 1
-## Header 2
-### Header 3
+## Internship in Health Technology
 
-- Bulleted
-- List
+____
 
-1. Numbered
-2. List
+# Education
 
-**Bold** and _Italic_ and `Code` text
+## University of California, Berkeley (2018-2020)
+Master's in Biostatistics
 
-[Link](url) and ![Image](src)
-```
+## Pomona College (2014-2018)
+Bachelor's in Chemistry with a Mathematics minor
