@@ -4,6 +4,10 @@
 
 ### Causal Inference: Yelp Reviews and Restaurant Closure
 
+### Predicting Contraceptive Use
+
+### Building an R Package
+
 ____
 
 ## Other Experiences
