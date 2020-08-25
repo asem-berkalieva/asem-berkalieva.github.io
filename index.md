@@ -4,7 +4,7 @@
 
 ### Causal Inference: Yelp Reviews and Restaurant Closure
 
-### Predicting Contraceptive Use
+### Classification: Predicting Contraceptive Use
 
 ### Building an R Package
 
@@ -20,8 +20,9 @@ ____
 
 ## Education
 
-### University of California, Berkeley (2018-2020)
-Master's in Biostatistics
+### MA in Biostatistics
+University of California, Berkeley (2018-2020)
 
-### Pomona College (2014-2018)
-Bachelor's in Chemistry with a Mathematics minor
+### BA in Chemistry
+Pomona College (2014-2018)
+Minor in Mathematics
