@@ -1,3 +1,5 @@
+Here is some of my work from the past few years.
+
 ## Projects
 
 ### Computational Statistics: Gene Expression in Endometriosis
