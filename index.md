@@ -1,22 +1,10 @@
-## Education
-
-### MA in Biostatistics
-University of California, Berkeley (2018-2020)
-
-### BA in Chemistry
-Pomona College (2014-2018)
-
-Minor in Mathematics
-
-____
-
 ## Projects
 
 ### Computational Statistics: Gene Expression in Endometriosis
 
 Endometriosis is a painful gynecological disorder that affects nearly 10% of women worldwide. We utilized publicly available microarray data containing archived endometrial samples from
 women with different stages of endometriosis to derive gene expression signatures of the disease.
-We then used the results of our differential analysis to construct a classification models to predict endometriosis for a given sample. Finally, we compared various machine-learning algorithms to assess performance.
+We then used the results of our differential analysis to construct and compare classification models to predict endometriosis for a given sample.
 
 - Read our <a href="projects/ph240c/ph240c-report.pdf">report</a>
 - View our <a href="projects/ph240c/ph240c-poster.pdf">poster</a>
@@ -33,7 +21,7 @@ Websites such as Yelp have been created to quickly and easily convey relevant in
 
 ### Classification: Predicting Contraceptive Use
 
-We aimed to understand how socioeconomic features impact contraceptive use in Indonesia, acknowledging that access and cost are factors influencing use of contraception. We utilized a survey of married household data on various demographic and socioeconomic factors collected in Indonesia in 1987. The goals of our project were two-fold: 1) predict contraceptive use through a variety of socioeconomic features, and 2) identify the best modeling approach for predicting contraceptive use. Ultimately, we aimed to identify a bias in the Family Planning Program in order to improve the allocation of resources and outreach efforts regarding contraceptive use in the Indonesian population.
+We aimed to understand how socioeconomic features impact contraceptive use, acknowledging factors such as access and cost may have such an influence. We utilized a survey of married household data on various demographic and socioeconomic factors collected in Indonesia in 1987. The goals of our project were two-fold: 1) predict contraceptive use through a variety of socioeconomic features, and 2) identify the best modeling approach for prediction. Ultimately, we aimed to identify a bias in the Family Planning Program in order to improve the allocation of resources and outreach efforts regarding contraceptive use in the Indonesian population.
 
 - Read our <a href="projects/ds200/ds200-report.pdf">report</a>
 - See <a href="https://github.com/palautatan/contraception">Git repository</a>
@@ -52,7 +40,19 @@ My MA thesis investigated gaps in life expectancy between Black and White US res
 
 ### Internship in Health Technology
 
-I spent last summer interning at Catalia Health, a patient care management company in San Francisco. While I was lucky enough to work on a few projects, I focused on better understanding patterns in patient engagement/behavior through data. In addition to strengthening my knowledge in data analysis and programming, I'm most grateful for the opportunity to learn how the healthcare industry works, what it means to work at a fast-paced company, and how to balance collaboration with independence.
+I spent last summer interning at Catalia Health, a patient care management company in San Francisco. While I was lucky enough to work on a few projects, I focused on better understanding patterns in patient engagement/behavior. In addition to strengthening my knowledge in data analysis and programming, the opportunity taught me how the healthcare industry works, what it means to work at a fast-paced company, and how to balance collaboration with independence.
+
+____
+
+## Education
+
+### MA in Biostatistics
+University of California, Berkeley (2018-2020)
+
+### BA in Chemistry
+Pomona College (2014-2018)
+
+Minor in Mathematics
 
 ____
 
