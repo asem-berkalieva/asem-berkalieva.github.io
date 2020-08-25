@@ -25,4 +25,5 @@ University of California, Berkeley (2018-2020)
 
 ### BA in Chemistry
 Pomona College (2014-2018)
+</br>
 Minor in Mathematics
