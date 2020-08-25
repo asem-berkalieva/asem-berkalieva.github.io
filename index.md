@@ -1,3 +1,15 @@
+## Education
+
+### MA in Biostatistics
+University of California, Berkeley (2018-2020)
+
+### BA in Chemistry
+Pomona College (2014-2018)
+
+Minor in Mathematics
+
+____
+
 ## Projects
 
 ### Computational Statistics: Gene Expression in Endometriosis
@@ -40,18 +52,7 @@ My MA thesis investigated gaps in life expectancy between Black and White US res
 
 ### Internship in Health Technology
 
-I spent last summer interning at Catalia Health, a patient care management company in San Francisco. While I was lucky enough to work on a few projects, I focused on better understanding patterns in patient engagement/behavior through data. In addition to strengthening my knowledge in data analysis and programming, I got to learned how the healthcare industry works, what it means to work at a fast-paced company, and how to balance collaboration with independence. 
-____
-
-## Education
-
-### MA in Biostatistics
-University of California, Berkeley (2018-2020)
-
-### BA in Chemistry
-Pomona College (2014-2018)
-</br>
-Minor in Mathematics
+I spent last summer interning at Catalia Health, a patient care management company in San Francisco. While I was lucky enough to work on a few projects, I focused on better understanding patterns in patient engagement/behavior through data. In addition to strengthening my knowledge in data analysis and programming, I'm most grateful for the opportunity to learn how the healthcare industry works, what it means to work at a fast-paced company, and how to balance collaboration with independence.
 
 ____
 
